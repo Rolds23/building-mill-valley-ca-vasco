@@ -3,17 +3,17 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920)...
+In the 1920s this building was a grocery store.
 
-- Built: c.tbd
-- Replaced: c.tbd
-- Architect: tbd
-- Library link: tbd
+- Built: 1890
+- Replaced: Unknown
+- Architect: Unknown
+- Library link: 
 
 
 ## SketchUp Model
 
-- Made by Henry Basnight, Nathan Schwartzman
+- Made by Henry Basnight, Nathan Schwartzman, Rowan Olds
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
